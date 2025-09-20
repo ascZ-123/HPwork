@@ -6,6 +6,7 @@ const min = () =>{
                 <p>hello ttaro!! where are u ?</p>
                 <p>function added</p>
                 <p>function added again</p>
+                <p>css added</p>
             </div>
         </>
     )
